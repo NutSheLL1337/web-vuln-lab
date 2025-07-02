@@ -26,7 +26,6 @@
 | A05 – Security Misconfiguration         | Default Credentials         | ✅ Exploited |
 | A06 – Vulnerable and Outdated Components | Outdated PHP Modules        | ✅ Exploited |
 | A07 – Identification and Authentication Failures | Brute Force (Login)  | ✅ Exploited |
-| A03 – Injection (Cross-Site Scripting now included here) | Reflected & Stored XSS | ✅ Exploited |
 
 
 ---
