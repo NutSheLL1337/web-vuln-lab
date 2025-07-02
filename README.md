@@ -2,7 +2,7 @@
 > This project is for **educational and ethical hacking purposes only**.  
 > Do **not** use the techniques shown here against any systems you do not own or have explicit permission to test (e.g. through a bug bounty program).
 
-# bWAPP Web Pentesting Lab
+# Web Pentesting Lab
 
 > **Objective:** Demonstrate exploitation of OWASP Top 10 vulnerabilities using bWAPP on a local Kali Linux setup.
 
