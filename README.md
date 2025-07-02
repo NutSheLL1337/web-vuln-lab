@@ -43,6 +43,15 @@
 **Command Injection:**
 ![Command_injection](https://github.com/user-attachments/assets/0f476f5a-bd9d-4b65-9827-64e4f381e5fd)
 
+### A06 – Vulnerable and Outdated Components
+
+1. **Attack Vector:** Exploitation of a known vulnerability in an outdated PostgreSQL version running on the Metasploitable vulnerable machine.
+2. **What happened:** Successfully gained remote access to the target system by leveraging the PostgreSQL vulnerability, resulting in a reverse shell connection through Metasploit.
+3. **Screenshots:**  
+![Exploited_metasploitable_postsgresql_1](https://github.com/user-attachments/assets/c2a8817d-462e-4a08-af16-e8098b3e0ce9)
+![msfssesion_started_2](https://github.com/user-attachments/assets/7e95af24-db6b-4fe1-9956-c258e777bc48)
+![catetc_test_3](https://github.com/user-attachments/assets/fbc74ed5-0639-4d8f-af43-70e7ee9399f1)
+
 ---
 
 ### A01 – Broken Authentication & A05 – Security Misconfiguration
@@ -75,15 +84,6 @@
 ![Stored_XSS_Owasp_Zap](https://github.com/user-attachments/assets/1b15a5d2-ed84-403f-8e60-d748617a0774)
 ![Owasp_zap_XSS](https://github.com/user-attachments/assets/17fda384-b69a-4c68-8f38-19b91be6768a)
 
-### A06 – Vulnerable and Outdated Components
-
-1. **Attack Vector:** Exploitation of a known vulnerability in an outdated PostgreSQL version running on the Metasploitable vulnerable machine.
-2. **What happened:** Successfully gained remote access to the target system by leveraging the PostgreSQL vulnerability, resulting in a reverse shell connection through Metasploit.
-3. **Screenshots:**  
-![Exploited_metasploitable_postsgresql_1](https://github.com/user-attachments/assets/c2a8817d-462e-4a08-af16-e8098b3e0ce9)
-![msfssesion_started_2](https://github.com/user-attachments/assets/7e95af24-db6b-4fe1-9956-c258e777bc48)
-![catetc_test_3](https://github.com/user-attachments/assets/fbc74ed5-0639-4d8f-af43-70e7ee9399f1)
-
 
 ---
 
@@ -96,6 +96,3 @@
 - **Keep Components Up to Date** (PHP, Apache modules, dependencies)  
 
 ---
-
-## 📂 Repository Structure
-
