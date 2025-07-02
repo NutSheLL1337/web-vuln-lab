@@ -11,8 +11,8 @@
 ## 🖥️ Lab Environment
 
 - **Host OS:** Kali Linux VM (VirtualBox)
-- **Target App:** bWAPP
-- **Tools Used:** Burp Suite, OWASP ZAP, sqlmap, browser DevTools, curl
+- **Target App:** bWAPP, DVWA, Metasploitable
+- **Tools Used:** Burp Suite, OWASP ZAP, sqlmap, browser DevTools, curl, Metasploit
 
 ---
 
