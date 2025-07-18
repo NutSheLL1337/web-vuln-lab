@@ -4,7 +4,7 @@
 
 # Web Pentesting Lab
 
-> **Objective:** Demonstrate exploitation of OWASP Top 10 vulnerabilities using bWAPP on a local Kali Linux setup.
+> **Objective:** Demonstrate exploitation of OWASP Top 10 vulnerabilities using bWAPP, DVWA, and Metasploitable on a local Kali Linux setup.
 
 ---
 
